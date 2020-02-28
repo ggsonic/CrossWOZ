@@ -1,6 +1,6 @@
 # CrossWOZ
 
-Data and codes for the paper "CrossWOZ: A Large-Scale Chinese Cross-Domain Task-Oriented Dialogue Dataset"
+Data and codes for the paper ["CrossWOZ: A Large-Scale Chinese Cross-Domain Task-Oriented Dialogue Dataset"](https://arxiv.org/abs/2002.11893) (accepted by TACL)
 
 please install ConvLab-2 first:
 
